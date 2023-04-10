@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fuzex-383319",
+  "private_key_id": "b10f5a46ab4b2350001d580db99973f106fba073",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1sjvxXCigP1A5\nyuPSMMlW1hic4yjf7ePtsYvRjRqc5BA0MAXLLl5liusj0vPFV9YYI7MoqzIf65jv\nMJWFLURIDJpR31Puyga+t4GCesH2efoehMN29fOtE+1Lc186So/xqBOUqzfwb4iL\n4j5KzJSReoMYmC1gpQPWJlrbsxAfxqOlNKukyutqsfKQCXP906FJ7MIexA75/FJR\nOWY5VU44qlfMu57zA9/KcgEyUGOxFV9WLWyaX03sL04DTWnV1AxMn4JTcBzfgSKk\nNdUfglRL7/5pENziUgMZ2VWkERJcPeYvcWjv8BDmGVjynOiemlbdCQLCkTF7Wx8/\nKfI+hg5TAgMBAAECggEACDXlKot5FIC37dyiveFRf9iN5S0IsFHOLnQK9u2y6asO\npmUTJfLS9jC4XnaOaHkHJjEay/gsfC/Hyes+nnWEs+LJ6HA4mT5M3rppIk3MzQgH\nCvEB6jLED6qqWvH8OCSda5SmSd4Q2Y8YswWGvhePkSFhoi9iQY9DZJ54FZx6Wo0q\nQxzQRILKB+V38JpEwHtss2e+NPy0De7IXK2skTHqmAyGrR44X/5lpLy9wJhizAx3\nlcozm7dJSUULmxCaXY3tQ6aW7tJ6WRNpYYv0V52ED0XibL8MivdhDbUhsAeRTGkR\n3GMoLe2oj6Q6EJEJBd+NlTwissD1Ql9NPNEcFOUDOQKBgQDxeZ/OR8DxIOqg0pI9\nnFkUK3VtaCf8MqorhXOCu8qrLfTl/QS7X12UcgABeyclXGPaZ8S1eChMGXBLUAJ4\nc6X/BVweDbfAjcGVpeRumKX+msNDsHynbuA2h1qkXXMsCytbzdJhwFlvigIUJ76L\nUC7Ks3ldKqKVAJFa8jvZR06h+wKBgQDAoBmFd2YqSoNux1hofvC+7Lkltjp52Yf6\n198x8s1ungo5speY6j3cFQes39IIOS6MCmRFulz0jKfazCuR+vw7vA9YkSYr3RJH\ntpWzJvb8t7S61uEeJ0CGaqD5369KHd3UjYhUwsVljwYin0r40xphsbCAN3LS/xVZ\n9zxAH7TtiQKBgFBQ6cxMpWoOTrvrDeUcKazBv68CI7qIh30uR/tFxuUkxf3xKC/C\nSnfjawkTEzQkBLpSJWVOb+jP1T/XftrdbGrkN31vhpyvCaJiqRX4A84pX6UWAIAY\nKs84OffNdU9C78r7LGyC87xbpNFbXs8rfkTBaS6JzcXNiIs9YpakVw0dAoGAJ+uG\nHoDmLXGP1498pPtZzVel70jayZHpenTujp1xMbGTEO4QOOKiu0+obY1dK9Md8Gve\n6Ax9YzkbOF8D0JchWwfYblR2grSoKzCNybkTisBPtkD+Go+r8a97eQ2AeG3EIV7L\nmDVdT3TaoqY8lWC6oPCAUbIsG8o9lI2GcQuhJXECgYEAxPbHisemaVgi9YdzKMmR\n1S7z7umnRa/xZcrtTjv8k/NmZrfrPG/edWbYHGcSUXU7jP2/aDPVN/Iy+9zY2Qr1\nKBy/Wn8sdbkW939kzLU8aDhoSvtemEKjVYJcupd6yZ7OvPl2+OsYdzAJkkpwoxgI\nkHcKuwOFTrqNKo8/ILHS15I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fuzex-277@fuzex-383319.iam.gserviceaccount.com",
+  "client_id": "116980809037153927838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fuzex-277%40fuzex-383319.iam.gserviceaccount.com"
+}
